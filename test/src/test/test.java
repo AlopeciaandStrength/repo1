@@ -8,5 +8,6 @@ public class test {
 		System.out.println(EH.getinstance());
 		System.out.println(EH.getinstance());
 		System.out.println("8.14test");
+		System.out.println("8.14testidea");
 	}
 }
