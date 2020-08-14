@@ -6,7 +6,5 @@ public class test {
 		System.out.println(LH.getinstance());
 		System.out.println(EH.getinstance());
 		System.out.println(EH.getinstance());
-		syso1111222223333
-		syso1111222224444
 	}
 }
